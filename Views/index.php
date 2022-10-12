@@ -24,6 +24,7 @@
                     </form>
                    
                     <p class="text-center small mt-3"> Create An Account<a href="../Views/Register.php"> Register </a></p>
+                    <p>This is a sample application the in using OOP style of Programming</p>
 
                 <!--This is end of card body  -->
                 </div>
