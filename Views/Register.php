@@ -40,6 +40,7 @@
                         <button type="submit" class="btn btn-success w-100">Register</button>
                     </form>
                     <p class="text-center small mt-3"> Already registered?<a href="../Views/index.php"> Login </a></p>
+                    <p>This is the register page.</p>
 
                 <!--This is end of card body  -->
                 </div>
